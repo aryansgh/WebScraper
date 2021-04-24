@@ -14,4 +14,4 @@ Multithreading was used to reduce the scraping time.
 
 # Caching
 
-Once a site has been scraped the data is stored as a cache file. If the user requests to scrape that site again within a timespan of one day then the data in the cache file is directly displayed to the user in a tabular format with all the HTML tags and their data otherwise if it has been more than one day the site is scraped again.
+Once a site has been scraped the data is stored as a cache file. If the user requests to scrape that site again within a timespan of one day then the data in the cache file is directly displayed to the user in a tabular format in an HTML file using the pandas library with all the HTML tags and their data otherwise if it has been more than one day the site is scraped again.
