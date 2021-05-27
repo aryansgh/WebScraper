@@ -3,7 +3,7 @@
 - Web scraper built using BeautifulSoup and requests library.
 - Caching implemented for space optimization.
 - Multithreading implemented for time optimization.
--Also compared the results of multithreading and multiprocessing
+- Also compared the results of multithreading and multiprocessing
 
 # About the WebScraper:
 
